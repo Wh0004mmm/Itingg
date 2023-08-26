@@ -74,8 +74,8 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/hoaan1995/ZxCDDoS/
-cd ZxCDDoS/
+git clone https://github.com/Wh0004mmm/Itingg
+cd Itingg
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
@@ -111,13 +111,13 @@ TheSpeedX (HTTP, SOCKS5, SOCK4 proxies <3)
 
 # TOS:
 ```sh
-Do not attack government pages (.gov/.gob), educational pages (.edu) or the United States Department of Defense (.mil), 
+Do not attack government pages (.id/website indonesia), educational pages (.edu) or the United States Department of Defense (.mil), 
 the creator is not responsible for the damage caused by the attacks. 
 remember: you are responsible for the attacks since this tool was created for educational purposes
 ```
 
 # CONTACT:
 ```sh
-Telegram: @StretZx
-Discord: ga ad
+Telegram: @Wh0004mmm
+Discord: @_zryy
 ```
